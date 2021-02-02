@@ -1,5 +1,5 @@
 function App () {
-  return <div>Hola mundo! Commit de prueba</div>
+  return <div>Hola mundo! commit en development</div>
 }
 
 export default App
